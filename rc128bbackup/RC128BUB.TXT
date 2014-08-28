@@ -1,0 +1,8 @@
+This one's full name is:
+
+RamCart128K Burst Backup
+
+It is a burst copier for one drive and RamCart 128K, it copies disk in two
+passes.
+
+YTM/Elysium
